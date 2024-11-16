@@ -1,0 +1,8 @@
+# نادیده گرفتن فایل‌های غیر Dart 
+*.cpp linguist-vendored 
+*.hpp linguist-vendored 
+*.h linguist-vendored 
+*.cmake linguist-vendored 
+*.swift linguist-vendored 
+*.html linguist-vendored
+* linguist-language=Dart
